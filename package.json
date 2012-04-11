@@ -1,0 +1,13 @@
+{
+  "name": "pDebug",
+  "description": "Programmable pure Javascript bindings for the V8 Debugger",
+  "keywords": ["debug", "test", "testing", "tests", "v8", "debugger", "programmable", "json"],
+  "version": "1.0",
+  "author": "Mark Ethan Trostler <mark@zzo.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zzo/pDebug.git"
+  },
+  "homepage": "https://github.com/zzo/pDebug"
+}
+
